@@ -46,7 +46,7 @@
 */
 .tor
 {
-  
+  display: grid;
 }
 .inm{
     width: 100%;
